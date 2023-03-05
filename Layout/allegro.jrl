@@ -1,0 +1,35 @@
+\t (00:00:07) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:07)     Journal start - Thu Dec 15 18:35:09 2022
+\t (00:00:07)         Host=DESKTOP-GFPGCGH User=Nico Pid=15436 CPUs=8
+\t (00:00:07) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:07) 
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 837
+\i (00:00:07) trapsize 817
+\i (00:00:07) trapsize 840
+\i (00:00:08) trapsize 861
+\i (00:00:08) trapsize 1448
+\i (00:00:09) generaledit 
+\i (00:00:10) open 
+\i (00:00:13) fillin "SCHEMAX7_v2.brd"
+\t (00:00:13) Opening existing design...
+\t (00:00:13) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:13) trapsize 1679
+\d (00:00:13) Design opened: C:/Users/ADMIN/OneDrive - Universitatea Politehnica Bucuresti/Desktop/P1_2022_433E_Gaujaneanu_Nicoleta_GSD_N5_OrCAD/Layout/SCHEMAX7_v2.brd
+\i (00:00:13) generaledit 
+\i (00:00:17) artwork 
+\i (00:00:19) setwindow form.film_control
+\i (00:00:19) FORM film_control filmtree  TOP 
+\i (00:00:23) FORM film_control filmtree popup 'Add Manual' TOP 
+\i (00:00:26) fillin "c"
+\i (00:00:34) setwindow form.scl_browser
+\i (00:00:34) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:00:34) FORM scl_browser treelist  SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:00:36) FORM scl_browser done  
+\i (00:00:37) setwindow form.film_control
+\i (00:00:37) FORM film_control general_parameters  
+\i (00:00:43) FORM film_control cancel  
+\i (00:00:43) setwindow pcb
+\i (00:00:43) generaledit 
+\i (00:00:44) exit 
+\t (00:00:45)     Journal end - Thu Dec 15 18:35:47 2022
